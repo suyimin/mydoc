@@ -1,0 +1,16 @@
+-Xms256m
+-Xmx2048m
+-XX:MaxPermSize=350m
+-XX:ReservedCodeCacheSize=225m
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-ea
+-Djna.nosys=true
+-Djna.boot.library.path=
+
+-Djna.debug_load=true
+-Djna.debug_load.jna=true
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-Didea.paths.selector=AndroidStudio1.3
+-Didea.platform.prefix=AndroidStudio
