@@ -22,13 +22,13 @@
  * @description 描    述：${todo}
  * @author 作    者：${user}
  * @date 时    间：${date}
- * @Copyright 版    权：归一科技公司源代码，版权归归一科技公司所有。
+ * @Copyright 版    权：
  */</template><template autoinsert="false" context="filecomment_context" deleted="false" description="Comment for created Java files" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.filecomment" name="filecomment">/**
  * @filename 文件名：${file_name}
  * @description 描    述：${todo}
  * @author 作    者：${user}
  * @date 时    间：${date}
- * @Copyright 版    权：归一科技公司源代码，版权归归一科技公司所有。
+ * @Copyright 版    权：
  */</template><template autoinsert="true" context="constructorcomment_context" deleted="false" description="Comment for created constructors" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.constructorcomment" name="constructorcomment">/**
  * ${tags}
  */</template></templates>
